@@ -1,0 +1,39 @@
+{
+  "$schema": "/mediawiki/recentchange/1.0.0",
+  "meta": {
+    "uri": "https://www.wikidata.org/wiki/Q3106984",
+    "request_id": "41131451-e812-4a34-bf28-a0547b000630",
+    "id": "b5d0ca56-d410-4c7f-bebf-b33f6bd7fec1",
+    "dt": "2023-10-18T12:24:38Z",
+    "domain": "www.wikidata.org",
+    "stream": "mediawiki.recentchange",
+    "topic": "codfw.mediawiki.recentchange",
+    "partition": 0,
+    "offset": 695984989
+  },
+  "id": 2053984605,
+  "type": "edit",
+  "namespace": 0,
+  "title": "Q3106984",
+  "title_url": "https://www.wikidata.org/wiki/Q3106984",
+  "comment": "/* wbcreateclaim-create:1| */ [[Property:P18]]: Giovanni Agnelli (1).jpg",
+  "timestamp": 1697631878,
+  "user": "Alabi001",
+  "bot": false,
+  "notify_url": "https://www.wikidata.org/w/index.php?diff=1993047386&oldid=1899155467&rcid=2053984605",
+  "minor": false,
+  "patrolled": true,
+  "length": {
+    "old": 33419,
+    "new": 33780
+  },
+  "revision": {
+    "old": 1899155467,
+    "new": 1993047386
+  },
+  "server_url": "https://www.wikidata.org",
+  "server_name": "www.wikidata.org",
+  "server_script_path": "/w",
+  "wiki": "wikidatawiki",
+  "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Created claim: </span></span> <a href=\"/wiki/Property:P18\" title=\"‎image‎ | ‎image of relevant illustration of the subject; if available, also use more specific properties (sample: coat of arms image, locator map, flag image, signature image, logo image, collage image)‎\"><span class=\"wb-itemlink\"><span class=\"wb-itemlink-label\" lang=\"en\" dir=\"ltr\">image</span> <span class=\"wb-itemlink-id\">(P18)</span></span></a>: Giovanni Agnelli (1).jpg"
+}

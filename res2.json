@@ -1,0 +1,38 @@
+{
+  "$schema": "/mediawiki/recentchange/1.0.0",
+  "meta": {
+    "uri": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D9%88%D8%A7%D8%AA%D8%A7%D8%B1%D8%A7",
+    "request_id": "18e6e16d-8b1b-459a-b982-f4ceef41bd97",
+    "id": "b50f45a6-9fb5-41e7-820f-509ae389c297",
+    "dt": "2023-10-18T12:24:37Z",
+    "domain": "ar.wikipedia.org",
+    "stream": "mediawiki.recentchange",
+    "topic": "codfw.mediawiki.recentchange",
+    "partition": 0,
+    "offset": 695984990
+  },
+  "id": 295586531,
+  "type": "edit",
+  "namespace": 0,
+  "title": "محمد واتارا",
+  "title_url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D9%88%D8%A7%D8%AA%D8%A7%D8%B1%D8%A7",
+  "comment": "بوت:إضافة وصلة أرشيفية.",
+  "timestamp": 1697631877,
+  "user": "Mr.Ibrahembot",
+  "bot": true,
+  "notify_url": "https://ar.wikipedia.org/w/index.php?diff=65050550&oldid=65050522",
+  "minor": true,
+  "length": {
+    "old": 2839,
+    "new": 3002
+  },
+  "revision": {
+    "old": 65050522,
+    "new": 65050550
+  },
+  "server_url": "https://ar.wikipedia.org",
+  "server_name": "ar.wikipedia.org",
+  "server_script_path": "/w",
+  "wiki": "arwiki",
+  "parsedcomment": "بوت:إضافة وصلة أرشيفية."
+}
